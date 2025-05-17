@@ -66,9 +66,14 @@ z = 15 / 15
 Z = 1
 
 P ( Z <- 1) = 0.1587
+
 P (Z < 1) = 0.8413
 
-Answer: 0.6826
+P (85 < x < 115) = P(Z < 1) - P(Z <- 1)
+
+0.8413 - 0.1587 = 0.06826
+
+AnsweR: 0.06826
 ============================================================================================================================================================================
 3. Poisson Distribution
    on average six people visit a small bookshop everyhour, How likely is it that four clients will show up in the next hour?
@@ -107,7 +112,8 @@ P = 3.212462592
     ------------
           24
 
-P = 0.1338 (round off) 0.1334
+P = 0.1338 (round off)
+P = 0.134
 ============================================================================================================================================================================
 4. Binomial Distribution
      A student completes ten multiple-choice question four possible answer, How likely is it for a pupil to get exactly three question right if they guess on each one?
