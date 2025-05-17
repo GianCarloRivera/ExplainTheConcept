@@ -29,7 +29,7 @@ p ( x ≤ 3) = 1 e^1.3
 e^-3 = 0.04978706836
 P ( X ≤ 3) = 1 - 0.0498 (round off)
 
-Answer: 0.9502
+Answer: 0.0498
 ============================================================================================================================================================================
 2. Normal Distribution
  Problem: we will calculate the probability of a normal distribution where the mean is 100 and the standard is 15 now we will find the value between of this 85 and 115.
